@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+TC:400,500,700,900');
+
+* {
+    font-family: 'Noto Sans TC', sans-serif;
+}
+
+nav {
+  font-weight: 700;;
+}
+
+img {
+  width: 90%;
+
+}
